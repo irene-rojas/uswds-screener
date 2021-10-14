@@ -2,14 +2,14 @@
 ### CONTENT ###
 
 # The question you want to ask
-text: Is your complaint about a healthcare provider, insurance provider, or data processing company?
+text: Are you considered a moderately to severely immunocompromised person?
 
 # The answer options and page name of destination associated with each answer
 # Add as many as you need.
 answers:
-  - text: "Yes, it is"
+  - text: "Yes, I am"
     path: question-2
-  - text: "No, none of these apply"
+  - text: "No, I am not"
     path: q1-exit
 
 # Whether this question includes related resources (yes or no)
